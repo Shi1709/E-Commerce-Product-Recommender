@@ -1,0 +1,51 @@
+id,name,category,description,price,image_url
+p1,Nike Air Zoom Pegasus 40,Footwear,Responsive daily running shoe with breathable mesh and Zoom Air cushioning.,119.99,https://images.unsplash.com/photo-1600180758890-6d62fdb47a46
+p2,Adidas Ultraboost 22,Footwear,High-energy return running shoe with Boost midsole for long runs.,179.99,https://images.unsplash.com/photo-1528701800489-476abf1b0f6d
+p3,Brooks Ghost 15,Footwear,Cushioned neutral running shoe offering smooth transitions and comfort.,129.99,https://images.unsplash.com/photo-1542293787938-c9e299b88011
+p4,Hoka Clifton 9,Footwear,Lightweight maximal cushioning shoe for long-distance comfort.,139.99,https://images.unsplash.com/photo-1571019613914-85f342c1a9b0
+p5,New Balance Fresh Foam 1080,Footwear,Plush Fresh Foam cushioning for everyday training and recovery runs.,129.99,https://images.unsplash.com/photo-1525971211896-8f5f1f78a3a9
+p6,Apple AirPods Pro (2nd Gen),Electronics,Noise-cancelling wireless earbuds with adaptive transparency and H2 chip.,249.0,https://images.unsplash.com/photo-1585386959984-a41552231685
+p7,Samsung Galaxy Watch 6,Electronics,Smartwatch with advanced health tracking and long battery life.,299.99,https://images.unsplash.com/photo-1556906781-9a41296c3c34
+p8,Garmin Forerunner 265,Electronics,GPS running watch with training readiness and advanced metrics.,449.99,https://images.unsplash.com/photo-1541534401786-5b3b8a9d1a9d
+p9,JBL Charge 5,Electronics,Portable waterproof Bluetooth speaker with powerful sound and long battery.,179.95,https://images.unsplash.com/photo-1518444026305-9e4bff3f1b7d
+p10,Sony WH-1000XM5,Electronics,Industry-leading noise cancelling over-ear headphones with immersive sound.,399.99,https://images.unsplash.com/photo-1518444026305-9e4bff3f1b7d
+p11,Instant Pot Duo 7-in-1,Home Appliance,"Multi-functional electric pressure cooker, slow cooker, rice cooker and more.",89.99,https://images.unsplash.com/photo-1512290923902-8a9f81dc236c
+p12,Dyson V11 Torque Drive,Home Appliance,Cordless vacuum cleaner with powerful suction and intelligent cleaning modes.,599.99,https://images.unsplash.com/photo-1581579180050-1c9c8b8b6e0f
+p13,Nespresso VertuoPlus,Home Appliance,Single-serve coffee and espresso machine with barcode brewing technology.,199.0,https://images.unsplash.com/photo-1509042239860-f550ce710b93
+p14,Philips Airfryer XXL,Home Appliance,Rapid air technology for crispy results with less oil.,249.99,https://images.unsplash.com/photo-1590080875830-59e9d2a416c2
+p15,KitchenAid Artisan Mixer,Home Appliance,Tilt-head stand mixer with 5-quart stainless steel bowl.,429.99,https://images.unsplash.com/photo-1517248135467-4c7edcad34c4
+p16,Anker PowerCore 20100mAh,Electronics,High-capacity portable power bank with fast charging.,49.99,https://images.unsplash.com/photo-1556906781-9a41296c3c34
+p17,Kindle Paperwhite (11th Gen),Electronics,Waterproof e-reader with high-resolution display and adjustable warm light.,139.99,https://images.unsplash.com/photo-1512820790803-83ca734da794
+p18,Logitech MX Master 3S,Electronics,Advanced wireless mouse with ergonomic design and hyper-fast scrolling.,99.99,https://images.unsplash.com/photo-1587829741301-dc798b83add3
+p19,"Samsung 65"" QLED TV",Electronics,4K QLED smart TV with Quantum HDR and smart streaming features.,999.99,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9
+p20,Roku Streaming Stick 4K,Electronics,"Compact streaming stick supporting 4K, HDR and voice remote.",49.99,https://images.unsplash.com/photo-1542751371-adc38448a05e
+p21,Patagonia Down Sweater,Clothing,Lightweight insulated jacket with responsibly sourced down for warmth.,229.0,https://images.unsplash.com/photo-1520975919970-5360f0b8d6a9
+p22,The North Face Apex Flex GTX,Clothing,Waterproof and breathable jacket with stretch for outdoor performance.,179.0,https://images.unsplash.com/photo-1520975919970-5360f0b8d6a9
+p23,Lululemon Align Leggings,Clothing,Ultra-soft high-rise leggings for yoga and daily wear.,98.0,https://images.unsplash.com/photo-1541099649105-f69ad21f3246
+p24,Columbia Titanium Hiking Boots,Footwear,Durable hiking boots with waterproof membrane and grippy outsole.,149.99,https://images.unsplash.com/photo-1509395176047-4a66953fd231
+p25,Salomon Speedcross 6,Footwear,Aggressive trail running shoe with excellent traction and stability.,139.99,https://images.unsplash.com/photo-1525971211896-8f5f1f78a3a9
+p26,Levi's 511 Slim Jeans,Clothing,Classic slim-fit men's denim with comfort stretch.,69.5,https://images.unsplash.com/photo-1520975919970-5360f0b8d6a9
+p27,Fjällräven Kånken Backpack,Accessories,Iconic durable backpack with simple design and spacious main compartment.,89.99,https://images.unsplash.com/photo-1503342217505-b0a15ef1fc24
+p28,Osprey Atmos AG 65,Outdoor,Anti-gravity backpack for multi-day hikes with exceptional ventilation and comfort.,269.95,https://images.unsplash.com/photo-1501785888041-af3ef285b470
+p29,Yeti Rambler 20oz Tumbler,Accessories,Durable insulated tumbler that keeps drinks hot or cold for hours.,34.99,https://images.unsplash.com/photo-1519744792095-2f2205e87b6f
+p30,Hydro Flask 32oz Wide Mouth,Accessories,Stainless steel insulated bottle with TempShield insulation.,44.95,https://images.unsplash.com/photo-1618248626029-41e7a92c67a4
+p31,GoPro HERO11 Black,Electronics,"Action camera with high-resolution video, stabilization, and waterproof design.",399.99,https://images.unsplash.com/photo-1500530855697-b586d89ba3ee
+p32,DJI Mini 3 Pro,Electronics,Compact drone with obstacle sensing and high-quality camera.,759.0,https://images.unsplash.com/photo-1518770660439-4636190af475
+p33,Canon EOS R50,Electronics,Mirrorless camera ideal for content creators with excellent autofocus.,799.0,https://images.unsplash.com/photo-1519183071298-a2962be90b0b
+p34,Bose SoundLink Revolve+,Electronics,Portable Bluetooth speaker with true 360° sound.,299.0,https://images.unsplash.com/photo-1518444026305-9e4bff3f1b7d
+p35,Breville Barista Express,Home Appliance,Semi-automatic espresso machine with integrated grinder.,699.95,https://images.unsplash.com/photo-1512290923902-8a9f81dc236c
+p36,Theragun Prime,Personal Care,Percussive therapy device for muscle recovery and pain relief.,199.0,https://images.unsplash.com/photo-1544161515-4abf1f0b9a1a
+p37,Oral-B Genius X Electric Toothbrush,Personal Care,Smart toothbrush with AI guidance for better brushing.,159.99,https://images.unsplash.com/photo-1616627988038-1c9f9c2b5170
+p38,Philips Norelco Multigroom 7000,Personal Care,"All-in-one trimmer for beard, hair, and body grooming.",79.99,https://images.unsplash.com/photo-1600180758890-6d62fdb47a46
+p39,Sennheiser HD 560S,Electronics,Open-back reference headphones for critical listening.,199.95,https://images.unsplash.com/photo-1518444026305-9e4bff3f1b7d
+p40,TP-Link Archer AX50 Router,Electronics,Wi-Fi 6 router with fast speeds and broad coverage for home networks.,129.99,https://images.unsplash.com/photo-1509223197845-458d87318791
+p41,Ring Video Doorbell 4,Home Security,Smart video doorbell with quick replies and motion-activated notifications.,199.99,https://images.unsplash.com/photo-1590080875830-59e9d2a416c2
+p42,Blink Outdoor Camera,Home Security,Battery-powered HD security camera with night vision.,99.99,https://images.unsplash.com/photo-1590080875830-59e9d2a416c2
+p43,Samsung T7 Portable SSD 1TB,Electronics,High-speed portable SSD with USB-C for fast transfers.,129.99,https://images.unsplash.com/photo-1556906781-9a41296c3c34
+p44,Seagate Backup Plus 5TB,Electronics,Desktop external hard drive for massive storage and backups.,119.99,https://images.unsplash.com/photo-1556906781-9a41296c3c34
+p45,Moleskine Classic Notebook,Stationery,"Hardcover notebook with ruled paper, ideal for notes and journaling.",24.95,https://images.unsplash.com/photo-1515879218367-8466d910aaa4
+p46,Apple iPhone 15,Electronics,Latest-generation smartphone with advanced camera system and performance.,999.0,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9
+p47,Google Pixel 8,Electronics,Pixel phone with top-tier computational photography and clean Android experience.,699.0,https://images.unsplash.com/photo-1511707171634-5f897ff02aa9
+p48,Xbox Series X,Gaming,Powerful home gaming console with 4K gaming support and fast load times.,499.99,https://images.unsplash.com/photo-1606813902788-d6b2a7e7f2de
+p49,Nintendo Switch OLED,Gaming,Portable and home console hybrid with vibrant OLED display.,349.99,https://images.unsplash.com/photo-1606813902788-d6b2a7e7f2de
+p50,Thermal Coffee Mug 16oz,Accessories,Insulated stainless steel travel mug with spill-resistant lid.,19.99,https://images.unsplash.com/photo-1519744792095-2f2205e87b6f
