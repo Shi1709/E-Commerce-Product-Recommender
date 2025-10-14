@@ -77,7 +77,7 @@ E-Commerce-Product-Recommender/
 
 1. **Clone the repository**
 
-   git clone https://github.com/yourusername/E-Commerce-Product-Recommender.git
+   git clone [GitHub Repository](https://github.com/Shi1709/E-Commerce-Product-Recommender/tree/main)
    cd E-Commerce-Product-Recommender
 
 
