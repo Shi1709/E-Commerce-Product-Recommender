@@ -1,8 +1,4 @@
 # force rebuild
-import sys
-!{sys.executable} -m pip install --upgrade pip
-!{sys.executable} -m pip install google-generativeai
-
 import os
 import random
 import textwrap
@@ -349,5 +345,6 @@ if st.button("Generate recommendations"):
         st.download_button("Download recommendations CSV", data=csv, file_name=f"recs_{selected_user}.csv", mime="text/csv")
 
 st.caption("Recommender = TF-IDF similarity + behavior-derived category & product boosts. Tune weights in recommend_for_user() to adjust personalization intensity.")
+
 
 
